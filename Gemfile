@@ -61,3 +61,7 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+gem "pry-rails", "~> 0.3.11"
+
+gem "pry", "~> 0.15.2"
